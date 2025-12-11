@@ -3,6 +3,7 @@ Uma Single Page Application (SPA) interativa que gera mensagens de apoio emocion
 
 ![GifSPA](sadOrHappy.gif)
 <hr>
+
 ## 📖 Sobre o Projeto
 Este projeto foi desenvolvido como parte prática do estudo sobre Arrays e Manipulação de DOM em JavaScript.
 
