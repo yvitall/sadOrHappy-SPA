@@ -1,5 +1,5 @@
 # 🎭 Mood Motivator (Sad or Happy)
-Uma Single Page Application (SPA) interativa que gera mensagens de apoio emocional ou celebração, dependendo do estado de espírito do usuário.
+Uma Single Page Application (SPA) interativa que gera mensagens de apoio emocional ou celebração, dependendo do humor do usuário.
 
 ![GifSPA](sadOrHappy.gif)
 <hr>
